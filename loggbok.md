@@ -9,7 +9,7 @@ Skriv en kort planering först.
 
 ## Log
 10-19: Gjort skiss och använt figma för att få fram skissen till liv
-10-26 Gjort färdigt i Figma. 
+10-26 Gjort färdigt i Figma. Börjat på html. På sidan just nu finns text och början till en navigation och en gul bakgrund. 
 Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
 
 Skriv även sådant som du måste arbeta med nästa pass.
