@@ -51,9 +51,11 @@ Jag rekommenderar att du baserar din grundläggande layout kring något av de ex
 ### Dokumentera
 När arbetet är klart så reflekterar du utöver din process och dokumenterar det i din loggbok.
 * Vad har gått bra med HTML/CSS/MEDIA.
+Enkelt med grunderna i både HTML och CSS t.ex bakgrundsfärg, få in text och rubriker.
 * Vad behöver/vill du lära dig mer om utifrån dessa delar.
+Skapa webbsidor med fler funktioner och som ser visuellt bättre ut. 
 * Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.
-
+Det enda som var fel var att jag behövde lägga u1 runt li så det faktiskt funkar som en lista. 
 ## Inlämning
 
 * Länk till ditt GitHub-repo.
